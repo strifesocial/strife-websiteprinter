@@ -1,0 +1,1 @@
+-- For this script, since it's purely client-side, the server.lua can remain empty
